@@ -66,7 +66,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <h2>Marcella Audi Susanto</h2>
-                        <p>I'm interested in <span class="typed" data-typed-items="Full-Stack, Web, Hybrid Mobile, Native Mobile">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span> Development</p>
+                        <p>I'm passionate in <span class="typed" data-typed-items="Full-Stack, Web, Hybrid Mobile, Native Mobile">Full-Stack</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span> Development</p>
                         <div class="social-links">
                             <a href="https://linkedin.com/in/marcella-audi-susanto" target="_blank"><i class="bi bi-linkedin"></i></a>
                             <a href="https://github.com/cellaaudi" target="_blank"><i class="bi bi-github"></i></a>
@@ -84,7 +84,7 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>About</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <p>Dive into the details and learn more about the person behind the name.</p>
             </div><!-- End Section Title -->
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -94,7 +94,7 @@
                         <img src="{{ asset('img/profile-img.jpg') }}" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 content">
-                        <h2>UI/UX Designer &amp; Web Developer.</h2>
+                        <h2>Marcella Audi Susanto.</h2>
                         <p class="fst-italic py-3">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                             magna aliqua.
@@ -102,17 +102,17 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>27 February 2003</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62 853 2572 6842</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Surabaya, Indonesia</span></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor of Computing</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>cellaaudist@gmail.com</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                                 </ul>
                             </div>
@@ -256,31 +256,31 @@
                 <div class="row">
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                        <h3 class="resume-title">Sumary</h3>
+                        <h3 class="resume-title">Summary</h3>
 
                         <div class="resume-item pb-0">
-                            <h4>Brandon Johnson</h4>
-                            <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+                            <h4>Marcella Audi Susanto</h4>
+                            <p><em>Bachelor of Computing with Summa Cum Laude honours from Informatics Engineering (GPA 3.951). Demonstrated excellence in full-stack, hybrid, and mobile application development, with proven experience in building applications using modern frameworks such as Laravel, Flutter and native languages such as Kotlin. Adept at collaborating in teams, driving projects from ideation to execution, and delivering solutions that meet user needs.</em></p>
                             <ul>
-                                <li>Portland par 127,Orlando, FL</li>
-                                <li>(123) 456-7891</li>
-                                <li>alice.barkley@example.com</li>
+                                <li>Surabaya, East Java, Indonesia</li>
+                                <li>+62 853 2572 6842</li>
+                                <li>cellaaudist@gmail.com</li>
                             </ul>
                         </div><!-- Edn Resume Item -->
 
                         <h3 class="resume-title">Education</h3>
                         <div class="resume-item">
-                            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2015 - 2016</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                            <h4>Bachelor of Computing</h4>
+                            <h5>2020 - 2024</h5>
+                            <p><em>University of Surabaya, Surabaya, East Java, Indonesia</em></p>
+                            <p>GPA 3.951/4.000 | Summa Cum Laude Honour | Faculty of Engineering | Department of Informatics Engineering - Data Science and Artificial Intelligence</p>
                         </div><!-- Edn Resume Item -->
 
                         <div class="resume-item">
-                            <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2010 - 2014</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+                            <h4>High School Graduate</h4>
+                            <h5>2017 - 2020</h5>
+                            <p><em>Marsudirini Sedes Sapientiae High School, Semarang, Central Java, Indonesia</em></p>
+                            <p>Department of Mathematics and Natural Science</p>
                         </div><!-- Edn Resume Item -->
 
                     </div>
@@ -766,8 +766,8 @@
 
     <footer id="footer" class="footer position-relative light-background">
         <div class="container">
-            <h3 class="sitename">Brandon Johnson</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+            <h3 class="sitename">- Cella Audi -</h3>
+            <p>Thanks for coming. xx</p>
             <div class="social-links d-flex justify-content-center">
                 <a href=""><i class="bi bi-twitter-x"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
